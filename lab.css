@@ -1,0 +1,29 @@
+
+h1 {
+    text-align: center;
+}
+body {
+background-image: url{"drippybroc: .jpg;"}
+}
+
+table, th, td{
+    border: 2.5px solid #deadff;
+    border-collapse: collapse;
+    
+
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+    size-adjust: 25%;
+    display: block;
+}
+.card{
+    margin-left: auto;
+    margin-right: auto;
+    size: 100%;
+}
+hr{
+    border: 2.5px solid black;
+    border-collapse: collapse;
+}
